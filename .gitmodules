@@ -1,0 +1,12 @@
+[submodule "அகராதிகாம்"]
+	path = அகராதிகாம்
+	url = https://github.com/247i/Dicom.git
+[submodule "மேற்படியே32"]
+	path = மேற்படியே32
+	url = https://github.com/247i/Ditto32.git
+[submodule "மேற்படியே64"]
+	path = மேற்படியே64
+	url = https://github.com/247i/Ditto64.git
+[submodule "டிஒத்திசை"]
+	path = டிஒத்திசை
+	url = https://github.com/247i/DSynchronize.git
