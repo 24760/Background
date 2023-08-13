@@ -22,3 +22,6 @@
 [submodule "இலக்கியவாதி"]
 	path = இலக்கியவாதி
 	url = https://github.com/247i/Listary.git
+[submodule "பணிவெறி"]
+	path = பணிவெறி
+	url = https://github.com/247i/Workrave.git
