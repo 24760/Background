@@ -19,3 +19,6 @@
 [submodule "பொருள்"]
 	path = பொருள்
 	url = https://github.com/247i/Porul.git
+[submodule "இலக்கியவாத"]
+	path = இலக்கியவாத
+	url = https://github.com/247i/Listary.git
