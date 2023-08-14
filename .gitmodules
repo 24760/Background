@@ -19,3 +19,15 @@
 [submodule "பொருள்"]
 	path = பொருள்
 	url = https://github.com/247i/Porul.git
+[submodule "எல்லாம்"]
+	path = எல்லாம்
+	url = https://github.com/247i/Everything.git
+[submodule "இலக்கியவாதி"]
+	path = இலக்கியவாதி
+	url = https://github.com/247i/Listary.git
+[submodule "சொற்றொடர்வெளிப்படுத்து"]
+	path = சொற்றொடர்வெளிப்படுத்து
+	url = https://github.com/247i/PhraseExpress.git
+[submodule "பணிவெறி"]
+	path = பணிவெறி
+	url = https://github.com/247i/Workrave.git
