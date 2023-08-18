@@ -9,6 +9,7 @@
 - git submodule add https://github.com/247i/Listary.git இலக்கியவாதி 
 - git submodule add https://github.com/247i/PhraseExpress.git சொற்றொடர்வெளிப்படுத்து 
 - git submodule add https://github.com/247i/Porul.git பொருள் 
+- git submodule add https://github.com/247i/StrokesPlus.git அடிகள்+
 - git submodule add https://github.com/247i/Texter.git உரையாசிரியர் 
 - git submodule add https://github.com/247i/TyperTask தட்டச்சுபணி 
 - git submodule add https://github.com/247i/Workrave.git பணிவெறி 
