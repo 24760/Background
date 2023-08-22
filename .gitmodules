@@ -46,3 +46,18 @@
 [submodule "ஊட்டிஉருளை"]
 	path = ஊட்டிஉருளை
 	url = https://github.com/247i/FeedRoller.git
+[submodule "வழி7"]
+	path = வழி7
+	url = https://github.com/247i/Skype7.git
+[submodule "அடிகள்+"]
+	path = அடிகள்+
+	url = https://github.com/247i/StrokesPlus.git
+[submodule "தந்தி"]
+	path = தந்தி
+	url = https://github.com/247i/Telegram.git
+[submodule "சொல்வலை"]
+	path = சொல்வலை
+	url = https://github.com/247i/WordWeb.git
+[submodule "ௐஅமபிபி"]
+	path = ௐஅமபிபி
+	url = https://github.com/247i/XAMPP.git
