@@ -64,3 +64,9 @@
 [submodule "குறள்"]
 	path = குறள்
 	url = https://github.com/247i/Kural.git
+[submodule "இலக்கியவாதி32"]
+	path = இலக்கியவாதி32
+	url = https://github.com/247i/Listary32.git
+[submodule "இலக்கியவாதி64"]
+	path = இலக்கியவாதி64
+	url = https://github.com/247i/Listary64.git

@@ -11,6 +11,8 @@
 - git submodule add https://github.com/247i/IniyaTamil.git இனியதமிழ்
 - git submodule add https://github.com/247i/Kural.git  குறள்
 - git submodule add https://github.com/247i/Listary.git இலக்கியவாதி 
+- git submodule add https://github.com/247i/Listary32.git இலக்கியவாதி32 
+- git submodule add https://github.com/247i/Listary64.git இலக்கியவாதி64 
 - git submodule add https://github.com/247i/PhraseExpress.git சொற்றொடர்வெளிப்படுத்து 
 - git submodule add https://github.com/247i/Porul.git பொருள் 
 - git submodule add https://github.com/247i/Skype.git வழி
