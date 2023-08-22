@@ -61,3 +61,6 @@
 [submodule "ௐஅமபிபி"]
 	path = ௐஅமபிபி
 	url = https://github.com/247i/XAMPP.git
+[submodule "குறள்"]
+	path = குறள்
+	url = https://github.com/247i/Kural.git
