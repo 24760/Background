@@ -37,3 +37,9 @@
 [submodule "இனியதமிழ்"]
 	path = இனியதமிழ்
 	url = https://github.com/247i/IniyaTamil.git
+[submodule "தசைஉரை"]
+	path = தசைஉரை
+	url = https://github.com/247i/Beeftext
+[submodule "திரைப்பலகதுடிப்பு"]
+	path = திரைப்பலகதுடிப்பு
+	url = https://github.com/247i/DesktopTicker.git
