@@ -64,3 +64,6 @@
 [submodule "குறள்"]
 	path = குறள்
 	url = https://github.com/247i/Kural.git
+[submodule "உரைவிரிவாக்கி"]
+	path = உரைவிரிவாக்கி
+	url = https://github.com/247i/Espanso.git
