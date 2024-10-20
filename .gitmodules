@@ -61,3 +61,6 @@
 [submodule "உரைவிரிவாக்கி"]
 	path = உரைவிரிவாக்கி
 	url = https://github.com/247i/Espanso.git
+[submodule "மேற்படியே"]
+	path = மேற்படியே
+	url = https://github.com/247i/Ditto.git
