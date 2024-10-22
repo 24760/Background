@@ -64,3 +64,6 @@
 [submodule "மேற்படியே"]
 	path = மேற்படியே
 	url = https://github.com/247i/Ditto.git
+[submodule "சாளரபதிவு"]
+	path = சாளரபதிவு
+	url = https://github.com/247i/WinRegister.git
