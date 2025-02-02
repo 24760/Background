@@ -67,3 +67,6 @@
 [submodule "சாளரபதிவு"]
 	path = சாளரபதிவு
 	url = https://github.com/247i/WinRegister.git
+[submodule "சாளரபாநகல்"]
+	path = சாளரபாநகல்
+	url = https://github.com/247i/WinSCP.git
